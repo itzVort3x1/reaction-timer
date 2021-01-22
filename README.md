@@ -14,6 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+---
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Details
+A Basic Web Application Built Completely on VUE.js, Which tests your reaction time!
