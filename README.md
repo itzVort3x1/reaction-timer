@@ -1,5 +1,7 @@
 # reaction-timer
 
+![GitHub repo size](https://img.shields.io/github/repo-size/itzVort3x1/reaction-timer?style=plastic) ![GitHub](https://img.shields.io/github/license/itzVort3x1/reaction-timer?style=plastic) ![Website](https://img.shields.io/badge/Website-Click%20here-important?style=plastic)
+
 ## Project setup
 ```
 npm install
